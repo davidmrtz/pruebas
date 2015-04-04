@@ -1,4 +1,4 @@
-# pruebas
-Bienvenido al nuevo repositorio...
+﻿# pruebas
+Bienvenido a mi nuevo repositorio...
 
-Este es mi primer repositorio de pruebas
+Este es mi primero y es de prueba
